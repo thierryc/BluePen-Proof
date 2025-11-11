@@ -28,4 +28,3 @@ After merging to `main`, configure the repository settings so GitHub Pages
 serves from the `gh-pages` branch. The workflow will manage updates whenever the
 Markdown source changes.
 
-T.
